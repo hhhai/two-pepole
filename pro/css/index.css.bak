@@ -1,0 +1,51 @@
+.my_body_img{
+    width:1110px;
+    height:520px;
+}
+.carousel-control-prev,
+.carousel-control-next{
+    width:4%;height:20%;
+    top:40%;
+    background-color:rgba(0,0,0,.3);
+    border-radius:4px;
+
+}
+.carousel-indicators li{
+    width:0.8rem;
+    height:0.8rem;
+    border-radius:50%;
+    background:#fff ;
+}
+.carousel-indicators .active{
+    background-color:#0aa1ed;
+    border-radius:0.25rem;
+}
+.my_body_height{
+   width:550px;
+   height:713px;
+}
+.my_index_height1{
+    width:555px;
+    height:280px;
+}
+.my_index_height2{
+    width:270px;
+    height:360px;
+}
+.my_index_height3{
+    width:255px;
+    height:200px;
+}
+.img_t{
+    transition: 1s;
+}
+.img_t:hover{
+    transform: scale(0.8) ;
+}
+.my_index_bg{
+ background-color:#e8e8e8;
+}
+.my_body_font{
+  font-size:25px;
+  font-family: свт╡;
+}

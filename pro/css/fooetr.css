@@ -1,0 +1,22 @@
+.font_m{
+    font-size:0.8rem;
+    color:#fff;
+}
+.my_xx{
+    border-bottom:1px solid  #666;
+}
+.font_y,.font_h{
+    font-size:0.5rem;
+}
+.font_a{
+    font-size:25px ;
+}
+.my_footer_tt{
+    width:33px;
+    height:30px;
+}
+.my_footer_three{
+    position: relative;
+    top:-55px;
+    left:-11px;
+}

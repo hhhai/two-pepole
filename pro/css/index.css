@@ -1,0 +1,165 @@
+.my_header,.my_footer{
+    width:100%;
+}
+/* 大屏下的iframe高度 */
+@media (min-width:992px){
+    .my_header{height:6.5rem;}
+    .my_footer{height:25rem;}
+}
+.my_body_img{
+    width:1110px;
+    height:520px;
+}
+.carousel-control-prev,
+.carousel-control-next{
+    width:4%;height:20%;
+    top:40%;
+    background-color:rgba(0,0,0,.3);
+    border-radius:4px;
+
+}
+.carousel-indicators li{
+    width:0.8rem;
+    height:0.8rem;
+    border-radius:50%;
+    background:#fff ;
+}
+.carousel-indicators .active{
+    background-color:#0aa1ed;
+    border-radius:0.25rem;
+}
+.my_body_height{
+   width:555px;
+   height:713px;
+}
+.my_index_height1{
+    width:555px;
+    height:280px;
+}
+.my_index_height2{
+    width:270px;
+    height:360px;
+}
+.my_index_height3{
+    width:255px;
+    height:200px;
+}
+.img_t{
+    transition: 1s;
+}
+.img_t:hover{
+    transform: scale(0.8) ;
+}
+.my_index_bg{
+ background-color:#e8e8e8;
+}
+.my_body_font{
+  font-size:25px;
+  font-family: ��Բ;
+}
+.my_body_text{
+    position: relative;
+    top:-338px;
+    left:65px;
+}
+.my_body_text1{
+    width:100px;
+    height:50px;
+    position: relative;
+    top:-150px;
+    left:30px;
+    font-size:0.8rem;
+}
+.my_body_text2{
+    width:120px;
+    height:50px;
+    position: relative;
+    top:-350px;
+    left:30px;
+    font-size:18px;
+    color:#fff;
+}
+.my_body_text3{
+    width:140px;
+    height:50px;
+    position: relative;
+    top:-350px;
+    left:30px;
+    font-size:18px;
+    
+}
+.font_small{
+    font-size:0.5rem;
+}
+.my_body_text4{
+    width:150px;
+    height: 50px;
+    position: relative;
+    top:-230px;
+    left:15px;
+    font-size:10px;
+}
+.my_body_text5{
+    width:150px;
+     height:50px;
+     position: relative;
+     top:-630px;
+     left:35px;
+     font-size:25px;
+}
+.f_top{
+    width:270px;
+    height:250px;
+}
+.f_top1{
+    width:270px;
+    height:408px;
+}
+.f_top2{
+    width:270px;
+    height:190px;
+
+}
+.f_top3{
+    width:555px;
+   height:700px;
+}
+.f_img{
+   position: relative;
+   top:45px;
+   left:85px;  
+   transition: all  .5s linear;
+}
+.f_img:hover{
+   transform: scale(1.1);
+}
+.f_img1{
+    position: relative;
+   top:-2px;
+   left:127px;  
+   transition: all  .5s linear;
+}
+.f_img1:hover{
+    transform: scale(1.1);
+ }
+ .f_text1{
+     width:140px;
+    position: relative;
+    top:-335px;
+    left:22px;  
+    color:#fff;  
+    font-size:20px;
+ }
+ .f_text2{
+    width:150px;
+    position: relative;
+    top:10px;
+    left:41px;  
+    font-size: 17px ;
+ }
+ .f_img2,.f_img3{
+     transition: all 0.5s linear;
+ }
+ .f_img2:hover,.f_img3:hover{
+     transform: scale(0.8);
+ }

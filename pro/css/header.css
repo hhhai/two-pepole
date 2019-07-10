@@ -1,0 +1,25 @@
+
+.my_header_bg{
+ background-color: black;
+}
+.btn_bg{
+    background-color: #fff;
+    width:120px;
+    height:25px;
+    font-size: 0.3rem;
+    color:#aaa;
+
+}
+.font_color{
+    color:#fff;   
+}
+my_header_height{
+    margin-top:0px;
+    padding-top:0px;
+}
+.font_small{
+    font-size:0.3rem;
+}
+.border{
+    background-color:transparent;
+}
