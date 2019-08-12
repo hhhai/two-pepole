@@ -1,0 +1,134 @@
+.breadcrumb-item + .breadcrumb-item::before {
+    display: inline-block;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    content: ">";
+  }
+  .breadcrumb{
+    background-color:transparent;
+    border-radius: 0;
+  }
+  .breadcrumb-item  a{
+      font-size:10px;
+  }
+  .my_p_1{
+    border:1px solid #aaa;
+    flex-wrap: nowrap;
+  }
+  .my_p_1 >.d-flex:first-child{
+      padding-left: 10px; 
+       padding-right:10px; 
+  }
+  .my_p_11{
+      border:1px solid #aaa;
+      border-bottom:0;
+      border-right:0;
+      margin-top:20px;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-bottom:20px;
+  }
+  .my_p_11 > .d-flex >div{
+      border-bottom: 1px solid #aaa;
+      border-right:1px solid #aaa;
+      box-sizing: border-box;
+  }
+  
+  .my_p_12 >.d-flex a{
+      padding:0  20px; 
+      color:#000;
+  }
+  .my_p_12 >.d-flex{
+       padding:5px; 
+      border-top:1px dashed #aaa;
+      font-size:12px;
+  }
+  .my_p_12 > .d-flex >.text-muted{
+    padding-left: 10px;
+    
+  }
+  .my_p_13{
+      position: relative;
+      text-align: center;
+      top:0px;
+      left:460px;
+      width:120px;
+      height:25px;
+      border:1px solid #aaa;
+      border-top:0;
+      background-color: #fff;
+     margin-top:-2px;
+     font-size:12px;
+  }
+  .my_p_14{
+      margin-top:20px;
+      background-color: #eee;
+      border:1px solid  #ccc;
+
+  }
+  .my_p_141, .my_p_142, .my_p_143
+  {
+    border-right:1px solid #ccc;
+    padding:0 30px;
+    line-height: 50px;
+ }
+ .my_p_144{
+     margin-left:20px;
+     margin-top:15px;
+ }
+ .my_p_14 button{
+     background-color: #fff;
+     border:1px solid #ccc;
+     outline:0;
+     width:80px;
+     color:#ccc;
+     font-size:10px;
+     text-align: left;
+     align-items: center;
+ }
+ .my_p_145{
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:200px;
+    font-size:15px;
+ }
+ .my_p_146{
+    margin-top:15px;
+    margin-left:120px;
+   
+ }
+.my_p_2 p{
+    font-size: 10px;
+    color:#aaa;
+}
+.font-weight-bold{
+    color:rgb(247, 64, 164);
+    font-size:20px;
+}
+.my_text_1{
+    text-decoration:line-through;
+}
+.my_p_23{
+    text-align: left;
+    border:0;
+    background:linear-gradient(to bottom right,rgb(255, 0, 106),rgb(248, 1, 1));
+    color:#fff;
+}
+.my_p_3{
+    margin-left: 450px;
+    margin-top:50px;
+}
+.my_p_3 > .pagination > .page-item {
+    padding:0  10px;
+    border-radius: 5px;
+    
+}
+.my_p_3  .page-item.active .page-link{
+    background-color: rgb(247, 64, 164);
+    border-color:rgb(247, 64, 164);
+    color:#fff;
+    border-radius:2px;
+}
+.my_p_3 > .pagination > .page-item >.page-link{
+    color:#aaa;
+}

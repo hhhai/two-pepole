@@ -1,0 +1,19 @@
+.breadcrumb-item + .breadcrumb-item::before {
+    display: inline-block;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: #fff;
+    content: "|";
+  }
+  .breadcrumb{
+    background-color: #fa2a83;
+    border-radius: 0;
+    padding-left: 135px;
+  }
+  .container {
+      background: #fcfcfc;
+      
+  }
+  a{
+      color:#fff;
+  }

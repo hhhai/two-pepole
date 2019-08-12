@@ -1,0 +1,160 @@
+.my_list_s span{
+    padding: 0 5px;
+    color:#aaa;
+    font-size:15px;
+}
+.my_list_s button{
+    border:1px solid #ccc;
+    outline: 0;
+    width:100px;
+    background-color:#eee;
+}
+.my_list_1{
+    background-color: rgb(252, 243, 243);
+}
+.my_list_11{
+    background:linear-gradient(to right,rgba(238, 58, 157, 0.897),rgba(255, 0, 0, 0.959));  
+    color:#fff;
+}
+.my_list_11t{
+    font-size:20px;
+}
+.my_list_11t1{
+    font-size:30px;
+}
+.my_list_12{
+    font-size:18px;
+    padding:10px  20px;
+    position: relative;
+}
+.my_list_12t0{
+    background-color:rgb(241, 9, 172); 
+    border:0;
+    outline: 0;
+    width:50px;
+    height:8px;
+    position: absolute;
+    left:0px;
+    top:23px;
+    margin-left:15px;
+}
+.my_list_12t3{
+    background-color:rgb(255, 208, 243); 
+    border:0;
+    outline: 0;
+    width:80px;
+    height:8px;
+}
+.my_list_12t{
+    color:rgb(243, 40, 175);
+}
+.my_list_12t1{
+    text-decoration: line-through;
+}
+.my_list_22 button{
+   background-color: transparent;  
+    border:1px solid #ccc;
+    outline:0;
+    padding:5px 25px;
+    margin: 0 5px;
+}
+.my_list_23{
+    border:1px solid #bbb;
+}
+.my_list_23 input{
+width:20px;
+ text-align: center;
+ border:0;
+ color:#bbb;
+}
+.my_list_23 button{
+    border-top:0;
+    border-bottom: 0;
+    border-right:0;
+    outline:0;
+    color:#ccc;
+    font-size:20px;
+    background-color:#e8e8e8;
+}
+ .my_list_3{ 
+    margin-left: 35px; 
+ } 
+.my_list_3 button{
+    border:0;
+    outline:0;
+    width:180px;
+    height: 50px;
+    color:#fff;
+    font-size:20px;
+    border-radius: 5px;
+    background-color: rgb(245, 18, 150);
+}
+.my_list_3  p{
+    color:#aaa;
+    font-size:10px;
+
+}
+.my_list_41,.my_list_42{
+    border-top:1px dashed #ccc;
+    color:#ccc;
+    font-size:12px;
+}
+.my_list_41{
+    padding-top:10px;
+}
+.my_list_42 .my_list_t{
+    color:rgb(245, 32, 181);
+}
+.my_list_42 span{
+    padding:0px 8px;
+}
+.my_list_5{
+    border-top:1px solid #ddd;
+    border-right:1px solid #ddd; 
+    border-bottom:3px  solid #000;
+}
+.my_list_5 li{
+    border-left:1px solid #ddd;
+    padding:10px 20px;
+}
+.my_list_51{
+    border-bottom:2px dotted #ddd;
+    font-size:20px;
+}
+.my_list_5t{
+    color:rgb(243, 36, 191);
+   
+}
+.my_list_52{
+    font-size:12px;
+}
+.my_list_53{
+    border:1px solid #ccc;
+}
+
+.my_list_53 li{
+    padding:10px  30px;
+    color:rgb(77, 75, 75);
+}
+.my_list_53 input{
+    border-radius: 5px;
+    outline:0;
+    border:1px solid #ddd;
+    width:80px;
+    height:30px;
+    text-align: center;
+}
+.my_list_53 span{
+    margin-right:20px;
+}
+.my_list_53 .list-unstyled div {
+    margin-left: -60px;
+    margin-top: 70px;
+}
+.my_list_53 .list-unstyled div  a{
+    background-color: rgb(245, 18, 150);
+     color:#fff;
+     width:120px;
+    
+    
+}

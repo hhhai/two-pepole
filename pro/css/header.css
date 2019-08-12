@@ -1,25 +1,125 @@
-
-.my_header_bg{
- background-color: black;
+*{
+    margin:0;padding:0;
 }
-.btn_bg{
-    background-color: #fff;
-    width:120px;
-    height:25px;
-    font-size: 0.3rem;
+body>div:first-child{
+    background-color:#ddd ;
+    height:28px;
+    line-height:10px;
+}
+.breadcrumb{
+    background:transparent;
+}
+.breadcrumb>li>a{
+    font-size:0.6rem;
+}
+ul>li>ul{
+    font-size:0.6rem;
     color:#aaa;
+}
+.dropdown>button{
+    font-size:0.6rem;
+    border:0;
+    background:transparent;
+}
+div>ul>li>ul{
+    opacity: 0;
+}
+div>ul>li>ul:hover{
+    display: block;
+    opacity: 1;
+}
+div>ul>li:hover{
+    background-color:#fff;
+    border-bottom-width:1px;
+    border-bottom-color: #fff;
+    height:20px; line-height:20px;
+    cursor:pointer;
+  }
+div>span{
+    font-size:0.4rem;
+    color:#aaa;
+    width:20px;
+    height:20px;
+}
+.my_header_1{
+    width:300px; 
+}
+.form-control{
+    border-color:#fa2a83;
+    border:2px solid #fa2a83;
+}
+.btn{
+    background-color:#fa2a83;
+    color:#fff;    
+    position: relative;
+    top:-38px;
+    left:241px;
+  
+}
 
+.my_header_2{
+    width:100px;
+    height:40px;
+    font-size:0.8rem;
+    outline: 0;
+    border:0;
+	font-size:0.8rem;
+	background-color:#e8e8e8;
+}
+#my_heider_img{
+     width:60%;
+     height:100px;
+     
+}
+#p1{
+    position: relative;
+    top:-38px;
+    left:-15px;
+}
+.my_header_ul{
+    position: relative;
+    top:-46px;
+    left:12px;
+}
+.my_header_31{
+    width:100px;
+    background: #fa2a83;
+    color:#fff;
+    height:30px;
+    text-align: center;
+}
+
+.my_header_3{
+     /* display:none;  */
+    opacity: 0;
+    position: relative;
+    top:165px;
+    left:-116px;
+    width:100px;
+    height:300px;
+    font-size:0.8rem;
+    background: #fa2a83;
+    color:#fff;
+    text-align: center;
+}
+.my_header_3:hover{
+    display:block;
+    opacity: 1;
+    color:#fff;
+}
+.my_header_33{
+    height:200px;
+    background: #fa2a83;
 }
 .font_color{
-    color:#fff;   
+    color: #fa2a83;
 }
-my_header_height{
-    margin-top:0px;
-    padding-top:0px;
+.font_c1{
+    color:rgb(39, 36, 36);
 }
-.font_small{
-    font-size:0.3rem;
-}
-.border{
-    background-color:transparent;
+.my_header{
+    position: relative;
+    top:-200px;
+    left:-30px;
+   
 }
